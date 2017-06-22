@@ -1,7 +1,7 @@
 
 <?php
 
-//master version 1
+//master version 2
 function getAllData(){
 	//todo: code here
 }
