@@ -1,7 +1,7 @@
 
 <?php
 
-//slave version 1
+//slave version 2
 function getAllData(){
 	//todo: code here
 }
